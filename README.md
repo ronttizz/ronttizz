@@ -11,7 +11,7 @@ For collaborations (coding, gaming, marketing etc) you can find me on many diffe
 - [Twitter](https://www.twitter.com/ronttizz)
 - [LinkedIn](https://www.linkedin.com/in/toni-nissinen/)
 - [Twitch](https://www.twitch.tv/ronttizz)
-- [TikTok](https://www.tiktok.com/ronttizz.official)
+- [TikTok](https://www.tiktok.com/@ronttizz.official)
 
 <!--
 **ronttizz/ronttizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
