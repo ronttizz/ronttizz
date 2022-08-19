@@ -6,7 +6,7 @@ At this time most of the repos are school projects. README files should be inclu
 
 I am also content creator in Twitch, part of YMCA Esport stream team. Twitch channel is mostly about gaming, which I am passionate about, and something of my life outside profession and gaming.
 
-For collaborations (coding, gaming, marketing etc) you can find me on many different social media:
+For collaborations (coding, gaming, marketing etc) you can also find me on many different social media:
 
 - [Twitter](https://www.twitter.com/ronttizz)
 - [LinkedIn](https://www.linkedin.com/in/toni-nissinen/)
