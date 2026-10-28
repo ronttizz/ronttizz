@@ -1,6 +1,6 @@
 ### Toni Nissinen (Ronttizz)
 
-Working for Druid as a Drupal developer since Jan 2023.
+Working for Digitalist Open Tech Finland as a Junior Drupal Developer.
 
 Enthusiastic gamer and streaming variety of games to Twitch.
 
